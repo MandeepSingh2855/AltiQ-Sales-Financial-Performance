@@ -1,8 +1,10 @@
 # AltiQ-Sales-Financial-Performance
 **About**
+
 An Excel-based analytics project that explores the sales performance, market trends, and profit & loss insights of AtliQ Hardwares from 2019 to 2021. This report helps identify growth patterns, underperforming markets, and year-over-year financial performance.
 
 **Dashboard Overview**
+
 This project consists of four detailed Excel reports:
 
 1-Customer Net Sales Performance – Tracks annual sales by customer and highlights top contributors.
@@ -14,6 +16,7 @@ This project consists of four detailed Excel reports:
 4-P&L by Month – Breaks down financial performance month-wise to reveal seasonal trends and profitability shifts.
 
 **Features**
+
 -Pivot tables with slicers for dynamic filtering
 
 -Year-over-year growth analysis
@@ -25,6 +28,7 @@ This project consists of four detailed Excel reports:
 -Clean, structured Excel layout with automated calculations
 
 **Tools Used**
+
 -Microsoft Excel
 
 -Pivot Tables
@@ -36,6 +40,7 @@ This project consists of four detailed Excel reports:
 -Structured tables with calculated fields
 
 **Conclusion**
+
 This project offers valuable business insights for sales and finance teams by presenting structured, interactive Excel reports. It supports data-driven decision-making and highlights key areas of business performance at AtliQ Hardwares.
 
 
