@@ -14,26 +14,26 @@ This project consists of four detailed Excel reports:
 4-P&L by Month – Breaks down financial performance month-wise to reveal seasonal trends and profitability shifts.
 
 **Features**
-“*”Pivot tables with slicers for dynamic filtering
+-Pivot tables with slicers for dynamic filtering
 
-“*”Year-over-year growth analysis
+-Year-over-year growth analysis
 
-“*”Market-level performance benchmarking
+-Market-level performance benchmarking
 
-“*”Profitability tracking by both year and month
+-Profitability tracking by both year and month
 
-“*”Clean, structured Excel layout with automated calculations
+-Clean, structured Excel layout with automated calculations
 
 **Tools Used**
-Microsoft Excel
+-Microsoft Excel
 
-Pivot Tables
+-Pivot Tables
 
-Slicers
+-Slicers
 
-Conditional Formatting
+-Conditional Formatting
 
-Structured tables with calculated fields
+-Structured tables with calculated fields
 
 **Conclusion**
 This project offers valuable business insights for sales and finance teams by presenting structured, interactive Excel reports. It supports data-driven decision-making and highlights key areas of business performance at AtliQ Hardwares.
